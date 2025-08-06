@@ -93,7 +93,7 @@ An advanced Large Language Model implementation focused on environmental sustain
 - ⚡ Optimized with Cython for performance (4.2%)
 - 🛠️ Cross-platform compatibility with C/C++ components
 
-**Tech Stack:** Python, Cython, C++, TensorFlow/PyTorch
+**Tech Stack:** Python, TensorFlow/PyTorch, Flask
 
 ---
 
@@ -163,21 +163,6 @@ Personal portfolio website showcasing my skills, projects, and professional jour
 - 📧 Contact form integration
 
 **Tech Stack:** HTML5 (72.8%), SCSS (27.2%)
-
----
-
-### 🎓 **Learning & Practice Projects**
-
-#### 🐍 [Python Practice](https://github.com/rafi1105/-Python-)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-Comprehensive Python programming practice repository covering algorithms, data structures, and problem-solving.
-
-**Key Features:**
-- 🧮 Algorithm implementations
-- 📊 Data structure examples
-- 🎯 Problem-solving exercises
-- 📚 Code documentation and best practices
 
 ---
 
